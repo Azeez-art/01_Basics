@@ -5,8 +5,6 @@ if (a > 0) {
   console.log("The number is not positive");
 }
 
-//
-
 if (a < 0) {
   console.log("The number is negative");
 } else {
