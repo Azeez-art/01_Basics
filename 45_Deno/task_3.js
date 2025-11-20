@@ -14,4 +14,3 @@ if (rechenart === "*") {
 if (rechenart === "/") {
   console.log(zahl1 / zahl2);
 }
-l;
