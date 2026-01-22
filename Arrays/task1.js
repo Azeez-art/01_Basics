@@ -1,6 +1,6 @@
 let zahlen = [4, 1, 2, 3];
 
-zahlen.push(17, 199);
+zahlen.push(27, 199);
 
 console.log("Array-Werte:");
 for (let i = 0; i < zahlen.length; i++) {
