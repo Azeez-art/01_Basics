@@ -1,0 +1,15 @@
+.test{
+    background-color: red;
+    padding: 5x;
+    color: aqua;
+}
+.model{
+    background-color: darkblue;
+    padding: 5px;
+    color: white;
+}
+.supermodel{
+    background-color: ghostwhite;
+    padding: 5px;
+    color: black;
+}
