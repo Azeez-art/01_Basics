@@ -1,0 +1,16 @@
+.modern{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+    border-style:solid;
+}
+
+.class{
+    padding: 15px;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+    border-style: solid;
+}
