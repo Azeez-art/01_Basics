@@ -1,0 +1,12 @@
+.modern{
+    border-style: solid;
+    height: 100px;
+}
+.class{
+    border-style: solid;
+    height: 100px;
+    width: 100vw;
+    background-color: red;
+    position: sticky;
+    top: 20px;
+}
