@@ -1,0 +1,9 @@
+.modern{
+    flex: content;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+    background: black;
+    color: white;
+}
